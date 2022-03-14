@@ -1,0 +1,6 @@
+D:\ПМ-2021\Stas Butov\DinamicArray\Tasks\bin\Debug\Tasks.exe.config
+D:\ПМ-2021\Stas Butov\DinamicArray\Tasks\bin\Debug\Tasks.exe
+D:\ПМ-2021\Stas Butov\DinamicArray\Tasks\bin\Debug\Tasks.pdb
+D:\ПМ-2021\Stas Butov\DinamicArray\Tasks\obj\Debug\Tasks.exe
+D:\ПМ-2021\Stas Butov\DinamicArray\Tasks\obj\Debug\Tasks.pdb
+D:\ПМ-2021\Stas Butov\DinamicArray\Tasks\obj\Debug\Tasks.csprojAssemblyReference.cache

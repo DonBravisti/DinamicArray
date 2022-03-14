@@ -1,0 +1,6 @@
+D:\ПМ-2021\Stas Butov\DinamicArray\DinamicArray\bin\Debug\DinamicArray.exe.config
+D:\ПМ-2021\Stas Butov\DinamicArray\DinamicArray\bin\Debug\DinamicArray.exe
+D:\ПМ-2021\Stas Butov\DinamicArray\DinamicArray\bin\Debug\DinamicArray.pdb
+D:\ПМ-2021\Stas Butov\DinamicArray\DinamicArray\obj\Debug\DinamicArray.csprojAssemblyReference.cache
+D:\ПМ-2021\Stas Butov\DinamicArray\DinamicArray\obj\Debug\DinamicArray.exe
+D:\ПМ-2021\Stas Butov\DinamicArray\DinamicArray\obj\Debug\DinamicArray.pdb

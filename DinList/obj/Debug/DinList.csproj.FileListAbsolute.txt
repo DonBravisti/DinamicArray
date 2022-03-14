@@ -1,0 +1,6 @@
+D:\ПМ-2021\Stas Butov\DinamicArray\DinList\bin\Debug\DinList.exe.config
+D:\ПМ-2021\Stas Butov\DinamicArray\DinList\bin\Debug\DinList.exe
+D:\ПМ-2021\Stas Butov\DinamicArray\DinList\bin\Debug\DinList.pdb
+D:\ПМ-2021\Stas Butov\DinamicArray\DinList\obj\Debug\DinList.csprojAssemblyReference.cache
+D:\ПМ-2021\Stas Butov\DinamicArray\DinList\obj\Debug\DinList.exe
+D:\ПМ-2021\Stas Butov\DinamicArray\DinList\obj\Debug\DinList.pdb
